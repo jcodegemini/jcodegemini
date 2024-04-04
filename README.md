@@ -3,7 +3,7 @@
 <br>
 <p align="center">
     <h1 align="center">✩ Hi 👋  I'm jcodegemini ✩</h1>
-  <div id="badges">
+  <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/jesuscalona19/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,11 +13,11 @@
   Software Engineer @ Gemini
 </div>
 <br/>
-<h2 align="left">Languages and Tools:</h2>
-<p align="left">
+<h2 align="center">Languages and Tools:</h2>
+<p align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,scala,express,python,typescript,javascript,ruby,php,git,kubernetes,docker,elysia" />
 </p>
-<p align="left">
+<p align="center">
     <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,vercel" />
 </p>
 
