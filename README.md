@@ -1,9 +1,9 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 
 <br>
 
-<p align="center">
+<p id="header" align="center">
     <h1 align="center">✩ Hi 👋  I'm Jesus ✩</h1>
     <div align="center" id="badges">
         <a href="https://www.linkedin.com/in/jesuscalona19/">
@@ -11,23 +11,28 @@
         </a>
     </div>
 </p>
-<div id="header" align="center">
+<div align="center">
   Software Engineer @ Gemini
 </div>
-
 <br/>
-
-<h3 align="center">Languages</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,scala,python,ruby,php,java" />
+<br/>
+<div id='skills'>
+<h3>Languages</h3>
+<p>
+    <img src="https://skillicons.dev/icons?i=typescript,js,python,ruby,php,scala,java,bash" />
 </p>
-<h3 align="center">Frameworks</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,elysia,rails,django,fastapi,react" />
+<h3>Frameworks</h3>
+<p>
+    <img src="https://skillicons.dev/icons?i=bun,nodejs,rails,nestjs,express,elysia,django,fastapi,react,mui" />
 </p>
-<h3 align="center">Tools</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,vercel,git,kubernetes,kafka,netlify,postgres,redis,supabase,tailwind,vite" />
+<h3>Tools</h3>
+<p>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,vercel,git,docker,kubernetes,kafka,netlify,postgres,redis,supabase,tailwind,vite,gitlab" />
 </p>
+<h3>DBs</h3>
+<p>
+    <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,mysql,firebase" />
+</p>
+</div>
 
 
