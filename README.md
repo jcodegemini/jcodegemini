@@ -6,7 +6,7 @@
 <p id="header" align="center">
     <h1 align="center">✩ Hi 👋  I'm Jesus ✩</h1>
     <div align="center" id="badges">
-        <a href="https://www.linkedin.com/in/jesuscalona19/">
+        <a href="https://www.linkedin.com/in/jesusescalona19/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
     </div>
